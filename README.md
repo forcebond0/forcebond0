@@ -1,5 +1,5 @@
 <p align="center">
-forcebond :: alpha centauri star system
+ghostteam :: alpha centauri star system
 </p>
 
 <p align="center">
